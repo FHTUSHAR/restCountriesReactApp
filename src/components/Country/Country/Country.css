@@ -1,0 +1,11 @@
+.country {
+    background-color: rgb(236, 136, 136);
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.flag {
+    width: 50%;
+}
